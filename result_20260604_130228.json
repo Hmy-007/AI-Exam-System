@@ -1,0 +1,56 @@
+{
+  "paper_title": "Python基础, 函数, 列表, 字典测试卷",
+  "timestamp": "2026-06-04 13:02:28",
+  "result": {
+    "total_score": 2,
+    "max_score": 5,
+    "percentage": 40.0,
+    "results": [
+      {
+        "id": 1,
+        "content": "以下哪个选项是Python中用于定义函数的关键字？",
+        "student_answer": "B. function",
+        "correct_answer": "A",
+        "earned": 0,
+        "max_score": 1,
+        "feedback": "✗ 错误，正确答案: A"
+      },
+      {
+        "id": 2,
+        "content": "在Python中，列表和字典的主要区别是什么？",
+        "student_answer": "A. 列表是有序的，而字典是无序的",
+        "correct_answer": "C",
+        "earned": 0,
+        "max_score": 1,
+        "feedback": "✗ 错误，正确答案: C"
+      },
+      {
+        "id": 3,
+        "content": "以下代码的输出结果是什么？\n\nx = [1, 2, 3]\nprint(x[1])",
+        "student_answer": "B. 2",
+        "correct_answer": "B",
+        "earned": 1,
+        "max_score": 1,
+        "feedback": "✓ 正确"
+      },
+      {
+        "id": 4,
+        "content": "以下代码的输出结果是什么？\n\nd = {'a': 1, 'b': 2}\nprint(d.get('c', 0))",
+        "student_answer": "A. 0",
+        "correct_answer": "A",
+        "earned": 1,
+        "max_score": 1,
+        "feedback": "✓ 正确"
+      },
+      {
+        "id": 5,
+        "content": "以下代码的输出结果是什么？\n\ndef add(a, b):\n    return a + b\nprint(add(2, 3))",
+        "student_answer": "B. 6",
+        "correct_answer": "A",
+        "earned": 0,
+        "max_score": 1,
+        "feedback": "✗ 错误，正确答案: A"
+      }
+    ]
+  }
+}

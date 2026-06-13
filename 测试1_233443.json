@@ -1,0 +1,77 @@
+{
+  "title": "测试1",
+  "knowledge_points": "Python基础, 列表, 字典, 函数",
+  "difficulty": "简单",
+  "total_score": 16,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "content": "以下哪项是Python中用于创建空列表的正确语法？",
+      "options": [
+        "A. list = ()",
+        "B. list = []",
+        "C. list = {}",
+        "D. list = None"
+      ],
+      "answer": "B",
+      "score": 2,
+      "knowledge_point": "列表"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "content": "在Python中，如何访问字典中的值？",
+      "options": [
+        "A. 使用索引",
+        "B. 使用键名",
+        "C. 使用循环",
+        "D. 使用函数"
+      ],
+      "answer": "B",
+      "score": 2,
+      "knowledge_point": "字典"
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "content": "以下哪个关键字用于定义一个函数？",
+      "options": [
+        "A. def",
+        "B. function",
+        "C. func",
+        "D. define"
+      ],
+      "answer": "A",
+      "score": 2,
+      "knowledge_point": "函数"
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "content": "在Python中，下列哪种操作可以将元素添加到列表的末尾？",
+      "options": [
+        "A. append()",
+        "B. insert()",
+        "C. add()",
+        "D. push()"
+      ],
+      "answer": "A",
+      "score": 2,
+      "knowledge_point": "列表"
+    },
+    {
+      "id": 5,
+      "type": "essay",
+      "content": "请解释Python中函数的作用，并说明如何定义一个函数。此外，请举例说明如何调用一个函数。",
+      "answer": "函数是Python中用于封装代码块以执行特定任务的工具，有助于提高代码的可读性和重用性。定义函数使用关键字def，后跟函数名称和括号。例如，定义一个名为greet的函数：def greet(name): print('Hello, ' + name)。调用函数时，只需输入函数名称并传递参数，如greet('Alice')。",
+      "score": 8,
+      "knowledge_point": "函数",
+      "grading_points": [
+        "解释函数的作用（3分）",
+        "说明如何定义函数（3分）",
+        "举例说明调用函数（2分）"
+      ]
+    }
+  ]
+}

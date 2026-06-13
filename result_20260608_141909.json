@@ -1,0 +1,68 @@
+{
+  "student_name": "小明",
+  "paper_title": "Python基础语法, 变量与数据类型, 列表与元组, 字典与集合, 条件判断与循环测试卷",
+  "timestamp": "2026-06-08 14:19:09",
+  "result": {
+    "total_score": 0,
+    "max_score": 5,
+    "percentage": 0.0,
+    "results": [
+      {
+        "id": 1,
+        "content": "以下哪个是Python中正确的变量命名方式？",
+        "student_answer": "B. my-variable",
+        "correct_answer": "D",
+        "earned": 0,
+        "max_score": 1,
+        "knowledge_point": "Python基础语法",
+        "is_correct": false,
+        "feedback": "✗ 错误，正确答案: D"
+      },
+      {
+        "id": 2,
+        "content": "下列哪种数据类型是不可变的？",
+        "student_answer": "C. 字典",
+        "correct_answer": "B",
+        "earned": 0,
+        "max_score": 1,
+        "knowledge_point": "列表与元组",
+        "is_correct": false,
+        "feedback": "✗ 错误，正确答案: B"
+      },
+      {
+        "id": 3,
+        "content": "在Python中，如何访问字典中的值？",
+        "student_answer": "A. 使用索引",
+        "correct_answer": "B",
+        "earned": 0,
+        "max_score": 1,
+        "knowledge_point": "字典与集合",
+        "is_correct": false,
+        "feedback": "✗ 错误，正确答案: B"
+      },
+      {
+        "id": 4,
+        "content": "以下哪条语句用于条件判断？",
+        "student_answer": "D. def",
+        "correct_answer": "C",
+        "earned": 0,
+        "max_score": 1,
+        "knowledge_point": "条件判断与循环",
+        "is_correct": false,
+        "feedback": "✗ 错误，正确答案: C"
+      },
+      {
+        "id": 5,
+        "content": "以下哪个操作可以将元素添加到列表中？",
+        "student_answer": "C. pop()",
+        "correct_answer": "B",
+        "earned": 0,
+        "max_score": 1,
+        "knowledge_point": "列表与元组",
+        "is_correct": false,
+        "feedback": "✗ 错误，正确答案: B"
+      }
+    ],
+    "wrong_count": 5
+  }
+}
